@@ -2,9 +2,9 @@
 
 **About STEM·E**
 
-The STEM·E Youth Career Development Program educates kids & teens in career success skills through uniquely integrated STEM (Science, Technology, Engineering, Mathematics) and Entrepreneurship professional opportunities.
+The[ STEM·E Youth Career Development Program](https://www.steme.org/) educates kids & teens in career success skills through uniquely integrated STEM (Science, Technology, Engineering, Mathematics) and Entrepreneurship professional opportunities.
 
-This project was completed in March 2025 as part of the Website Data Analytics Team to highlight patterns and unusual phenomenon behind STEM·E's visual presence and digital footprint.
+This project was completed in March 2025 as part of the **Website Data Analytics Team** to highlight patterns and unusual phenomenon behind STEM·E's visual presence and digital footprint.
 
 **Overview**
 
