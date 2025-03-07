@@ -15,44 +15,43 @@ This project analyzes website traffic data from Wix Analytics using Python. The 
 ## Technologies Used
  - Python
    - Pandas
-NumPy
-Matplotlib
-Seaborn
+   - NumPy
+   - Matplotlib
+   - Seaborn
 
-Setup Instructions
 
-Clone the repository:
+### Installation Steps
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/website-traffic-dashboard.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd website-traffic-dashboard
+    ```
 
-git clone https://github.com/yourusername/website-traffic-dashboard.git
+3. Install the dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-Navigate to the project directory:
+4. Run the Flask application:
+    ```bash
+    python analytics.py
+    ```
 
-cd website-traffic-dashboard
+## Usage
 
-Install dependencies:
+ - Place your Wix Analytics CSV file in the project directory.
+ - Run the script to analyze the data and visualize trends.
+ - The dashboard will display insights on:
+   - Traffic Patters & Statistical Correlations
+   - Page Views & Unique Visitors
+   - Site Sessions & Session Duration
+   - Bounce Rate
 
-pip install -r requirements.txt
 
-Run the analytics script:
+## License
 
-python analytics.py
+This project is licensed under the GNU General Public License v3.0. Please refer to [LICENSE](url) for more information.
 
-Usage
-
-Place your Wix Analytics CSV file in the project directory.
-
-Run the script to analyze the data and visualize trends.
-
-The dashboard will display insights on traffic patterns, session duration, and bounce rates.
-
-Contributing
-
-Contributions are welcome! Feel free to fork the repository, submit issues, or open pull requests.
-
-License
-
-This project is licensed under the MIT License.
-
-Author
-
-[Your Name] - [Your GitHub Profile]
