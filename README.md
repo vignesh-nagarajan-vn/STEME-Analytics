@@ -36,11 +36,13 @@ Created by Vignesh Nagarajan on behalf of [STEM·E Youth Career Development Prog
     ```bash
     cd website-traffic-dashboard
     ```
+ - **website-traffic-dashboard** will be added at a later date
 
 3. Install the dependencies:
     ```bash
     pip install -r requirements.txt
     ```
+ - **requirements.txt** will be added at a later date
 
 4. Run the Python script:
     ```bash
