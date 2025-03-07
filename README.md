@@ -12,6 +12,8 @@ This project analyzes website traffic data from Wix Analytics using Python. The 
 
 Created by Vignesh Nagarajan on behalf of [STEM·E Youth Career Development Program](https://www.steme.org/)'s Data Analytics Team.
 
+Check out the **Installation Steps** section below to run the program. Alternatively, navigate to the **Data Visualization** folder and select **Dashboard.jpeg** to view the final product.
+
 ## Features
 
  - **Data Cleaning & Processing:** Converts raw data into a structured format for analysis.
@@ -27,7 +29,7 @@ Created by Vignesh Nagarajan on behalf of [STEM·E Youth Career Development Prog
    - Seaborn
 
 
-### Installation Steps
+## Installation Steps
 1. Clone the repository:
     ```bash
     git clone https://github.com/vignesh-nagarajan-vn/STEME-Analytics.git
@@ -48,10 +50,6 @@ Created by Vignesh Nagarajan on behalf of [STEM·E Youth Career Development Prog
     ```bash
     Analytics Dashboard v2.py
     ```
-
-
-
-Alternatively, navigate to the **Data Visualization folder** and select **Dashboard.jpeg** to view the final product.
 
 ## Usage
 
