@@ -10,7 +10,7 @@ This project was completed in March 2025 as part of the **Website Data Analytics
 
 This project analyzes website traffic data from Wix Analytics using Python. The program processes data using Pandas, extracts key traffic patterns, and visualizes insights using Matplotlib and Seaborn. The analysis includes traffic trends over time, bounce rates, session durations, and correlations among key metrics.
 
-Created by Vignesh Nagarajan on behalf of [STEM·E Youth Career Development Program](https://www.steme.org/)'s Data Analytics Team
+Created by Vignesh Nagarajan on behalf of [STEM·E Youth Career Development Program](https://www.steme.org/)'s Data Analytics Team.
 
 ## Features
 
@@ -48,6 +48,8 @@ Created by Vignesh Nagarajan on behalf of [STEM·E Youth Career Development Prog
     ```bash
     Analytics Dashboard v2.py
     ```
+
+Alternatively, navigate to the **Data Visualization folder** and select **Dashboard.jpeg** to view the final product.
 
 ## Usage
 
