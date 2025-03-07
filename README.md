@@ -24,7 +24,7 @@ Created by Vignesh Nagarajan on behalf of [STEM·E Youth Career Development Prog
 ### Installation Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/website-traffic-dashboard.git
+    git clone https://github.com/vignesh-nagarajan-vn/STEME-Analytics.git
     ```
 2. Navigate to the project directory:
     ```bash
