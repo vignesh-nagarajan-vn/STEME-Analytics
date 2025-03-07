@@ -4,6 +4,8 @@
 
 This project analyzes website traffic data from Wix Analytics using Python. The program processes data using Pandas, extracts key traffic patterns, and visualizes insights using Matplotlib and Seaborn. The analysis includes traffic trends over time, bounce rates, session durations, and correlations among key metrics.
 
+Created by Vignesh Nagarajan on behalf of [STEM·E Youth Career Development Program](https://www.steme.org/)'s Data Analytics Team
+
 ## Features
 
  - **Data Cleaning & Processing:** Converts raw data into a structured format for analysis.
@@ -15,7 +17,6 @@ This project analyzes website traffic data from Wix Analytics using Python. The 
 ## Technologies Used
  - Python
    - Pandas
-   - NumPy
    - Matplotlib
    - Seaborn
 
