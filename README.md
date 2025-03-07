@@ -2,15 +2,15 @@
 
 **Overview**
 
-This project analyzes website traffic data from Wix Analytics using Python. The program processes data using Pandas and NumPy, extracts key traffic patterns, and visualizes insights using Matplotlib and Seaborn. The analysis includes traffic trends over time, bounce rates, session durations, and correlations among key metrics.
+This project analyzes website traffic data from Wix Analytics using Python. The program processes data using Pandas, extracts key traffic patterns, and visualizes insights using Matplotlib and Seaborn. The analysis includes traffic trends over time, bounce rates, session durations, and correlations among key metrics.
 
 ## Features
 
- - Data Cleaning & Processing: Converts raw data into a structured format for analysis.
- - Statistical Analysis: Computes summary statistics (mean, median, min, max) for key metrics.
- - Traffic Trends Analysis: Extracts patterns based on time and day of the week.
- - Correlation Analysis: Identifies relationships between different metrics.
- - Dashboard Visualization: Displays key statistics and trends using Matplotlib and Seaborn.
+ - **Data Cleaning & Processing:** Converts raw data into a structured format for analysis.
+ - **Statistical Analysis:** Computes summary statistics (mean, median, min, max) for key metrics.
+ - **Traffic Trends Analysis:** Extracts patterns based on time and day of the week.
+ - **Correlation Analysis:** Identifies relationships between different metrics.
+ - **Dashboard Visualization:** Displays key statistics and trends using Matplotlib and Seaborn.
 
 ## Technologies Used
  - Python
@@ -53,5 +53,5 @@ This project analyzes website traffic data from Wix Analytics using Python. The 
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0. Please refer to [LICENSE](url) for more information.
+This project is licensed under the GNU General Public License v3.0. Please refer to [LICENSE](https://github.com/vignesh-nagarajan-vn/STEME-Analytics/blob/main/LICENSE) for more information.
 
