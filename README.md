@@ -42,7 +42,7 @@ Created by Vignesh Nagarajan on behalf of [STEM·E Youth Career Development Prog
     pip install -r requirements.txt
     ```
 
-4. Run the Python application:
+4. Run the Python script:
     ```bash
     Analytics Dashboard v2.py
     ```
