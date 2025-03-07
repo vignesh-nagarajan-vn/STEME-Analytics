@@ -1,12 +1,12 @@
 # STEM·E-Analytics
 
-**About STEM·E**
+## About STEM·E
 
 The[ STEM·E Youth Career Development Program](https://www.steme.org/) educates kids & teens in career success skills through uniquely integrated STEM (Science, Technology, Engineering, Mathematics) and Entrepreneurship professional opportunities.
 
 This project was completed in March 2025 as part of the **Website Data Analytics Team** to highlight patterns and unusual phenomenon behind STEM·E's visual presence and digital footprint.
 
-## Overview
+## Project Overview
 
 This project analyzes website traffic data from Wix Analytics using Python. The program processes data using Pandas, extracts key traffic patterns, and visualizes insights using Matplotlib and Seaborn. The analysis includes traffic trends over time, bounce rates, session durations, and correlations among key metrics.
 
