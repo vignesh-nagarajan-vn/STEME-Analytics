@@ -42,9 +42,9 @@ Created by Vignesh Nagarajan on behalf of [STEM·E Youth Career Development Prog
     pip install -r requirements.txt
     ```
 
-4. Run the Flask application:
+4. Run the Python application:
     ```bash
-    python analytics.py
+    Analytics Dashboard v2.py
     ```
 
 ## Usage
