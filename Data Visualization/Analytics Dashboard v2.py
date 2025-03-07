@@ -1,5 +1,8 @@
 # Adjusting the color assignment and re-running the dashboard creation
 
+import matplotlib.pyplot as plt
+import seaborn as sns
+
 def create_dashboard_fixed(stats):
     fig, axes = plt.subplots(2, 3, figsize=(18, 10))
     fig.suptitle("Website Traffic Summary Statistics Dashboard", fontsize=16)
