@@ -26,6 +26,7 @@ Check out the **Installation Steps** section below to run the program. Alternati
  - Python
    - Pandas
    - Matplotlib
+     - Pyplot
    - Seaborn
 
 
