@@ -23,6 +23,8 @@ Check out the **Installation Steps** section below to run the program. Alternati
  - **Dashboard Visualization:** Displays key statistics and trends using Matplotlib and Seaborn.
 
 ## Technologies Used
+ - Wix Analytics
+    - CSV Files
  - Python
    - Pandas
    - Matplotlib
